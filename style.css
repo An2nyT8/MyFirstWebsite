@@ -86,3 +86,14 @@ nav ul li a:hover {
 #changeTextBtn:hover {
     background-color: #45a049; /* Etwas dunkleres Grün beim Hover */
 }
+
+form {
+    display: flex;
+    flex-direction: column;   /* Die Elemente im Formular untereinander anordnen */
+    align-items: center;      /* Elemente horizontal zentrieren */
+    padding: 20px;            /* Etwas Abstand innen */
+    border: 1px solid #ccc;   /* Eine leichte Umrandung */
+    border-radius: 10px;      /* Abgerundete Ecken */
+    background-color: #f9f9f9;  /* Helles Hintergrund */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);  /* Leichter Schatten */
+}

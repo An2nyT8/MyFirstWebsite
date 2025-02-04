@@ -29,7 +29,7 @@ p {
 /* Fügt einen schönen Hintergrund und Padding zu deinem Text hinzu */
 .container {
     max-width: 900px;
-    margin-bottom: 20px auto;
+    margin-bottom: 20px;
     padding: 20px;
     background-color: white;
     border-radius: 8px;

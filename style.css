@@ -89,6 +89,7 @@ nav ul li a:hover {
 
 form {
     display: flex;
+    margin: 10px;
     flex-direction: column;   /* Die Elemente im Formular untereinander anordnen */
     align-items: center;      /* Elemente horizontal zentrieren */
     padding: 20px;            /* Etwas Abstand innen */
